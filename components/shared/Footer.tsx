@@ -14,7 +14,7 @@ const Footer = () => {
           />
         </Link>
 
-        <p>2023 Evently. All Rights reserved.</p>
+        <Link href='https://www.instagram.com/asynchronous_krishna/'>© Developer</Link>
       </div>
     </footer>
   )
