@@ -6,12 +6,12 @@ const loading = () => {
           <div
     id="wifi-loader"
     className="w-16 h-16 rounded-full relative flex justify-center items-center"
-    style={{
-      '--background': '#62abff',
-      '--front-color': '#4f29f0',
-      '--back-color': '#c3c8de',
-      '--text-color': '#414856',
-    }}
+    // style={{
+    //   '--background': '#62abff',
+    //   '--front-color': '#4f29f0',
+    //   '--back-color': '#c3c8de',
+    //   '--text-color': '#414856',
+    // }}
   >
     <svg className="circle-outer absolute w-20 h-20">
       <circle className="back" cx="43" cy="43" r="40"></circle>
